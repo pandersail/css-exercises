@@ -1,0 +1,13 @@
+/* external-method.css */
+
+div span {
+    color:white;
+    background-color: red;
+    font-weight: 700;
+}
+
+div {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
